@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.30.19518.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:05.143%0D%0A%20If%20none%20of%20the%20levels%20are%20found,%20the%20system%20uses%20a%20suspense%20account%20as%20the%20funding%20source.%20%0D%0A%0D%0A"}')

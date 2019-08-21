@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.30.19518.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:05.302%0D%0AIf%20FAU%20is%20expired%20in%20KFS%20after%20data%20entry,%20charge%20Edit%20Error%20Funding.%0D%0A%0D%0A"}')

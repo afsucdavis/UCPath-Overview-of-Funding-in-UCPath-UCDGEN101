@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.30.19518.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:05.515%0D%0APosition%20Pool%20is%20the%20next%20level.%20This%20level%20is%20not%20used%20at%20UCD%20or%20ANR.%0D%0A%0D%0A"}')
